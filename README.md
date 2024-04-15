@@ -1,1 +1,1 @@
-# mellonProjectTWO
+"Lucky" by Radiohead captures a moment of hope amid despair, expressing gratitude for unexpected luck or fortune. The song talks about a near-death experience where the protagonist survives against the odds. Despite the darkness that surrounds them, they find solace in the simple act of being alive. I tried to encapsulate this in my website.
