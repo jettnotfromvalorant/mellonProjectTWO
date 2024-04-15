@@ -215,7 +215,7 @@ h3:hover {
   66%   {color: var(--color-3)}
   99%   {color: var(--color-3)}
   100%  {color: var(--color-1)}
-  
+
 }
 
 
@@ -248,6 +248,7 @@ h3:hover {
 
 .luckylink:hover {
   color:#e08d8d;
+  
 }
 
 .returnlink {
