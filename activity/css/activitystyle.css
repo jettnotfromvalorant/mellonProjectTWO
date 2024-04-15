@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  border: 0;
+}
+
+
+body {
+  margin: 25, 25, 50, 50;
+  text-align: center;
+  background-image:url("../img/activitybackground.png");
+  background-position: center, center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h2 {
+  -webkit-text-stroke: 1px #dc71ef;
+  font-family: poppins;
+  color: #ffffff;
+  font-size: 400%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.icons img{
+max-width: 50%;
+max-height:50%;
+width: 100px;
+height: 100px;
+margin-left: 40px;
+margin-right: 40px;
+;
+}
+
+
+.icons:hover {
+  opacity: 70%;
+  }
+
+
+
+
+
