@@ -248,3 +248,20 @@ h3:hover {
 .luckylink:hover {
   color:#e08d8d;
 }
+
+.returnlink {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display:flex;
+  flex-direction: row;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 100px;
+  justify-content: center;
+  margin-top: 40vh;
+  text-decoration: none;
+  color: #ACCFCB;
+}
+
+.returnlink:hover {
+  color:#e08d8d;
+}
