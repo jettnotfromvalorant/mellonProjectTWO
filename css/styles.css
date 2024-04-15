@@ -14,3 +14,20 @@ body {
   background-color: #f8fdff;
 }
 
+.title {
+  display:flex;
+  flex-direction: row;
+  font-family: "Micro 5 Charted";
+  font-weight: 200;
+  font-style: normal;
+  font-size: 100px;
+  justify-content: center;
+  margin-top: 40vh;
+  text-decoration: none;
+  color: rgb(23, 163, 245);
+}
+
+.title:hover {
+  color: rgb(72, 91, 99);
+  font-size: 120px;
+}
